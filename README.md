@@ -2,4 +2,6 @@
 
 this is how you edit a file
 
-i like spicy food
+I sometimes like spicy food
+
+
